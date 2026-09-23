@@ -1,0 +1,12 @@
+{
+    "geode": "4.8.0",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "yourname.ui-textures",
+    "name": "UI Textures",
+    "version": "v1.0.0",
+    "developer": "yourname",
+    "description": "A Geometry Dash UI texture pack.",
+    "repository": "https://github.com/yourname/gd-ui-textures"
+}
